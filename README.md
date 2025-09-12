@@ -1,15 +1,33 @@
-# Hi, i'm [Mrferi](https://mrferi.ir)
----
-##### 🔰 I am interested in **hacking** and **security** 
-##### 🧑‍💻 I am learning **cyber security** 
-##### 💞️ I am looking for cooperation in the network or website design 
-##### ⚡my site: [MrFeri.ir](https://mrferi.ir)
-##### 📫 my other pages:
-#####     **Instagram:** [https.mrferi](https://instagram.com/https.mrferi)
-#####     **Telegram:** [MrFeri_bot](https://t.me/MrFeri_bot) 
+# 💻 Hi, I'm Mohammadmahdi Naderpour
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Coding GIF" width="300"/>
+</p>
+
+## About Me
+
+💻 I am passionate about Python, web development, and cybersecurity.  
+🚀 I am constantly learning and exploring new ways to improve my skills in programming and security.  
+🔒 Cybersecurity is my focus, and I love discovering vulnerabilities and securing systems.  
+💡 I am looking for collaboration in web development and network security to build innovative and secure solutions.  
 
 ---
-![MrFeri GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsMrferi&hide=contribs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMrferi&layout=compact&theme=dark)
+
+## 🔗 Contact Me
+
+🫙 **Telegram:** [@mohammadmahdinp](https://t.me/Mohammadmahdinp)  
+🌐 **Website:** [mohammadmahdinp.ir](https://mohammadmahdinp.ir/)  
+⚡ **Instagram:** [mohammadmahdinp](https://www.instagram.com/mohammadmahdinp)  
+
 ---
-<a href="#" align="center" ><img src="./maz.svg"></a>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarrycodesIR&show_icons=true&theme=gotham" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrycodesIR&layout=compact&theme=gotham" alt="Top Languages"/>
+</p>
+
