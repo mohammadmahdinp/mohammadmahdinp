@@ -1,9 +1,12 @@
 # 💻 Hi, I'm Mohammadmahdi Naderpour
 
+<h1 align="center">Hey, I'm a Linux Enthusiast 🐉</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Coding GIF" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;Linux+Enthusiast;Building+DragonShell" />
 </p>
 
+<h3 align="center">🐧 Ubuntu • Python • Fish Shell</h3>
 ## About Me
 
 💻 I am passionate about Python, web development, and cybersecurity.  
