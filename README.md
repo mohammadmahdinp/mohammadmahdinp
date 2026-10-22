@@ -56,13 +56,6 @@ Hey! I'm **MohammadMahdi** — a developer in progress exploring Python, Linux, 
 
 <div align="center">
 
-<!-- Contribution graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadmahdinp&bg_color=0D0221&color=00E5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-<div>
-
----
 
 <div align="center">
 
