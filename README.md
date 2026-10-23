@@ -48,7 +48,6 @@ Hey! I'm **MohammadMahdi** — a developer in progress exploring Python, Linux, 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mohammadmahdinp&hide_border=true&background=0D0221&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6E6FA&dates=9D8ABF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 <div>
 
